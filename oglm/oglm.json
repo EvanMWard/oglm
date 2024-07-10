@@ -1,0 +1,12 @@
+{
+  "Author": "Rush",
+  "Name": "OG Living Memory",
+  "Punchline": "Restore Living Memory to its pre-MSQ state",
+  "Description": "Retexture Living Memory to its glory days without having to use NG+.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "livingmemory",
+    "plugin",
+    "dawntrail"
+  ]
+}
